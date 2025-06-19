@@ -1,9 +1,8 @@
 fastapi
 uvicorn[standard]
+gunicorn
 pandas
 scikit-learn
 scikit-surprise==1.1.3
 numpy<2.0
-
-# python-multipart không bắt buộc cho API này nhưng thường cần thiết cho FastAPI
 python-multipart

@@ -1,0 +1,23 @@
+# render.yaml
+
+services:
+  # Định nghĩa Web Service cho API FastAPI
+  - type: web
+    name: fastapi-recommender # Tên dịch vụ trên Render
+    env: python # Môi trường là Python
+    plan: free # Sử dụng gói miễn phí (hoặc starter, standard,...)
+
+    # Lệnh để build ứng dụng
+    buildCommand: "pip install -r requirement.txt"
+
+    # Lệnh để khởi động ứng dụng
+    # Gunicorn sẽ chạy ứng dụng ASGI (app.main:app)
+    # Nó sẽ lắng nghe trên cổng mà Render cung cấp qua biến môi trường $PORT
+    startCommand: "gunicorn -w 4 -k uvicorn.workers.UvicornWorker -b 0.0.0.0:$PORT app.main:app"
+
+    # Cấu hình Health Check để Render biết khi nào ứng dụng sẵn sàng
+    healthCheckPath: /
+
+    # Cài đặt tự động deploy khi có commit mới vào nhánh main
+    autoDeploy: true
+    branch: main # Hoặc tên nhánh chính của bạn
