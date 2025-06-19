@@ -1,19 +1,11 @@
 # render.yaml
-# Cấu hình Blueprint để deploy ứng dụng FastAPI bằng Docker
 
 services:
   # Định nghĩa Web Service
   - type: web
     name: fastapi-recommender # Tên dịch vụ
-
-    # === ĐIỂM QUAN TRỌNG NHẤT ===
-    # Chỉ định môi trường là Docker
-    env: docker
-
+    env: docker # Chỉ định môi trường là Docker
     plan: free # Sử dụng gói miễn phí
-
-    # Render sẽ tự động tìm và sử dụng Dockerfile ở thư mục gốc
-    # Bạn không cần buildCommand hay startCommand nữa, vì chúng đã có trong Dockerfile
 
     # (Tùy chọn nhưng khuyến nghị) Cấu hình Health Check
     # Render sẽ gọi đến cổng 10000 bên trong container để kiểm tra
