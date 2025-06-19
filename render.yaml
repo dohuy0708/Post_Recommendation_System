@@ -1,23 +1,33 @@
 # render.yaml
+# Cấu hình Blueprint để deploy ứng dụng FastAPI lên Render
 
 services:
-  # Định nghĩa Web Service cho API FastAPI
+  # Định nghĩa Web Service cho API gợi ý
   - type: web
-    name: fastapi-recommender # Tên dịch vụ trên Render
-    env: python # Môi trường là Python
-    plan: free # Sử dụng gói miễn phí (hoặc starter, standard,...)
+    name: fastapi-recommender # Tên dịch vụ sẽ hiển thị trên dashboard của Render
+    env: python # Môi trường chạy là Python
 
-    # Lệnh để build ứng dụng
+    # === ĐIỂM QUAN TRỌNG NHẤT ===
+    # Chỉ định Render sử dụng chính xác phiên bản Python 3.10 để build và chạy.
+    # Điều này giải quyết lỗi biên dịch của scikit-surprise.
+    pythonVersion: "3.10"
+
+    plan: free # Sử dụng gói miễn phí của Render
+
+    # Lệnh để cài đặt tất cả các thư viện cần thiết.
+    # Render sẽ chạy lệnh này mỗi khi có deploy mới.
     buildCommand: "pip install -r requirement.txt"
 
-    # Lệnh để khởi động ứng dụng
-    # Gunicorn sẽ chạy ứng dụng ASGI (app.main:app)
-    # Nó sẽ lắng nghe trên cổng mà Render cung cấp qua biến môi trường $PORT
+    # Lệnh để khởi động ứng dụng trong môi trường production.
+    # - Gunicorn là một server ASGI/WSGI mạnh mẽ.
+    # - '-k uvicorn.workers.UvicornWorker' để chạy ứng dụng FastAPI (ASGI).
+    # - '-b 0.0.0.0:$PORT' để lắng nghe trên cổng do Render cung cấp.
     startCommand: "gunicorn -w 4 -k uvicorn.workers.UvicornWorker -b 0.0.0.0:$PORT app.main:app"
 
-    # Cấu hình Health Check để Render biết khi nào ứng dụng sẵn sàng
+    # (Tùy chọn nhưng khuyến nghị) Cấu hình Health Check
+    # Render sẽ gọi đến đường dẫn này để kiểm tra xem ứng dụng có đang hoạt động không.
     healthCheckPath: /
 
-    # Cài đặt tự động deploy khi có commit mới vào nhánh main
+    # Tự động deploy lại khi có commit mới được đẩy lên nhánh được chỉ định.
     autoDeploy: true
-    branch: main # Hoặc tên nhánh chính của bạn
+    branch: main # Hoặc 'master', tùy theo tên nhánh chính của bạn.
