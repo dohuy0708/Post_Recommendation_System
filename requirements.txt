@@ -1,5 +1,11 @@
 # requirement.txt
 
 fastapi
-uvicorn 
+uvicorn[standard]
 gunicorn
+pandas
+scikit-learn
+# Sử dụng fork ổn định của scikit-surprise
+surpriselib
+numpy<2.0
+python-multipart
