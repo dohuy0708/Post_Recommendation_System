@@ -1,0 +1,220 @@
+_id,userId,title,topicId,countLike,countDislike,countView
+68230543246bd71de9eb8bff,67dfdad05eca18465894084b,Post demo w test images,67f357e280e7a31c46a4e333,0,1,1
+68230553246bd71de9eb8c00,67dfdad05eca18465894084b,Post demo w images,67f357e280e7a31c46a4e333,0,1,1
+68236a027a08e30d992fe54a,67dfdad05eca18465894084b,Post demo w images,67f357e280e7a31c46a4e333,0,0,1
+68236a077a08e30d992fe54b,67dfdad05eca18465894084b,Post demo w images,67f357e280e7a31c46a4e333,1,1,2
+68236a347a08e30d992fe54c,67dfdad05eca18465894084b,Sự khác nhau về quan điểm giữa người trẻ và người già,67f357e280e7a31c46a4e333,0,0,2
+68236a7e7a08e30d992fe54d,67dfdad05eca18465894084b,"Khi Cuộc Đời Không Phải Là Một Cuốn Sách, Mà Là Một Ván Cờ Không Báo Trước",67f357e280e7a31c46a4e333,0,0,0
+68236b4a7c25b750857965f7,67dfdad05eca18465894084b,Cách đăng bài trên không gian Internet toxic hàng đầu thế giới,67f357e280e7a31c46a4e333,0,0,1
+68236f3f9a525c3c92d77022,67dfdad05eca18465894084b,Hạ Đỏ,67f357e280e7a31c46a4e333,0,0,1
+6823734d0779284c0baa1363,67dfdad05eca18465894084b,Hạ Đỏ,67f357e280e7a31c46a4e333,0,0,0
+682c92c99edee92f4b2c1357,6800d3bbe8bde56abb2a40eb,Ngày tháng sau này,67f3585d80e7a31c46a4e335,2,1,2
+682cac8b9edee92f4b2c1359,6800d3bbe8bde56abb2a40eb,haizzzz,67f357e280e7a31c46a4e333,1,0,2
+68305b70220cab1f6bd3cc19,67dfdad05eca18465894084b,update demo,67f357e280e7a31c46a4e333,0,0,1
+68425b4a05314b62bd2b1f19,6800d3bbe8bde56abb2a40eb,Ánh mắt ngày hôm ấy,67f3594480e7a31c46a4e33b,0,1,2
+68471220f3e4534bf197be5f,67e20a0f94883c2093d09d95,Chúng ta ... là ...,67f3587d80e7a31c46a4e336,1,1,2
+68471566f3e4534bf197be62,68011e392ab2615d4649dc94,ACCENDIO,67f3591980e7a31c46a4e339,0,0,2
+684717b3f3e4534bf197be63,6800d3bbe8bde56abb2a40eb,Liz in MAMA Awards 2024,67f3591980e7a31c46a4e339,2,0,2
+684d29a7a310c64cdd4288a2,6800d3bbe8bde56abb2a40eb,Demo t7,67f3584980e7a31c46a4e334,0,0,2
+685166511efc7a11efeb7164,6800d3bbe8bde56abb2a40eb,DEMO JAVA,67f3585d80e7a31c46a4e335,1,0,0
+685388c6032f97a5e8175600,67dfdad05eca18465894084b,Bài viết mẫu về Thể thao,67f357e280e7a31c46a4e333,0,0,0
+68538a0f032f97a5e8175631,67e20a0f94883c2093d09d95,Góc nhìn về Thể thao,67f357e280e7a31c46a4e333,16,4,79
+68538a0f032f97a5e8175632,67ed629313d86e27fec2318f,Góc nhìn về Tâm lý học,67f3584980e7a31c46a4e334,40,1,78
+68538a0f032f97a5e8175633,67f2b39e8be76b7890c824cd,Góc nhìn về Giáo dục,67f3585d80e7a31c46a4e335,21,0,30
+68538a0f032f97a5e8175634,67f2b4a88be76b7890c824ce,Góc nhìn về Quan điểm - Tranh luận,67f3587d80e7a31c46a4e336,47,2,126
+68538a0f032f97a5e8175635,6800d3bbe8bde56abb2a40eb,Góc nhìn về Khoa học - Công nghệ,67f3589080e7a31c46a4e337,33,2,33
+68538a0f032f97a5e8175636,68011e392ab2615d4649dc94,Góc nhìn về Lịch sử,67f358a780e7a31c46a4e338,25,0,76
+68538a0f032f97a5e8175637,68538097032f97a5e817547e,Góc nhìn về Nghệ thuật - Giải trí,67f3591980e7a31c46a4e339,32,4,24
+68538a0f032f97a5e8175638,6853842e032f97a5e81754be,Góc nhìn về Sách,67f3593780e7a31c46a4e33a,42,4,199
+68538a0f032f97a5e8175639,6853842e032f97a5e81754bf,Góc nhìn về Tình yêu,67f3594480e7a31c46a4e33b,7,4,169
+68538a0f032f97a5e817563a,6853842e032f97a5e81754c0,Góc nhìn về Xã hội,67f3596980e7a31c46a4e33c,42,4,18
+68538af5032f97a5e8175648,67e20a0f94883c2093d09d95,Phân tích chiến thuật: Tại sao pressing tầm cao lại là xu thế của bóng đá hiện đại?,67f357e280e7a31c46a4e333,145,9,116
+68538af5032f97a5e8175649,67ed629313d86e27fec2318f,Hội chứng Kẻ Mạo Danh (Impostor Syndrome): Khi thành công không mang lại hạnh phúc,67f3584980e7a31c46a4e334,1,0,381
+68538af5032f97a5e817564a,67f2b39e8be76b7890c824cd,Học qua dự án (Project-Based Learning): Hướng đi mới cho giáo dục thế kỷ 21,67f3585d80e7a31c46a4e335,81,4,51
+68538af5032f97a5e817564b,67f2b4a88be76b7890c824ce,Trí tuệ nhân tạo có nên được trao quyền tác giả cho các tác phẩm nghệ thuật?,67f3587d80e7a31c46a4e336,95,0,363
+68538af5032f97a5e817564c,6800d3bbe8bde56abb2a40eb,Pin thể rắn: Cuộc cách mạng sắp xảy ra cho xe điện và thiết bị di động,67f3589080e7a31c46a4e337,35,4,3
+68538af5032f97a5e817564d,68011e392ab2615d4649dc94,Con đường Tơ lụa: Không chỉ là một tuyến đường thương mại,67f358a780e7a31c46a4e338,86,9,401
+68538af5032f97a5e817564e,68538097032f97a5e817547e,Sự trỗi dậy của dòng phim 'Slow Cinema': Khi sự chậm rãi là một tuyên ngôn nghệ thuật,67f3591980e7a31c46a4e339,41,7,267
+68538af5032f97a5e817564f,6853842e032f97a5e81754be,Tại sao chúng ta nên đọc lại những cuốn sách cũ?,67f3593780e7a31c46a4e33a,98,3,445
+68538af5032f97a5e8175650,6853842e032f97a5e81754bf,Lý thuyết gắn bó (Attachment Theory) và ảnh hưởng của nó đến các mối quan hệ trưởng thành,67f3594480e7a31c46a4e33b,112,9,276
+68538af5032f97a5e8175651,6853842e032f97a5e81754c0,Nền kinh tế chia sẻ (Sharing Economy): Cơ hội và những mặt trái tiềm ẩn,67f3596980e7a31c46a4e33c,128,5,289
+68538bd0032f97a5e8175667,67e20a0f94883c2093d09d95,Vai trò của phân tích dữ liệu trong việc tuyển trạch cầu thủ bóng đá,67f357e280e7a31c46a4e333,97,13,504
+68538bd0032f97a5e8175668,67ed629313d86e27fec2318f,Sức bền tinh thần: Yếu tố quyết định trong các cuộc đua marathon,67f357e280e7a31c46a4e333,229,12,318
+68538bd0032f97a5e8175669,67f2b39e8be76b7890c824cd,Kinh tế thể thao: Nguồn thu khổng lồ từ bản quyền truyền hình,67f357e280e7a31c46a4e333,92,3,204
+68538bd0032f97a5e817566a,67f2b4a88be76b7890c824ce,Lịch sử phát triển của luật việt vị và tác động của nó tới chiến thuật,67f357e280e7a31c46a4e333,184,6,591
+68538bd0032f97a5e817566b,6800d3bbe8bde56abb2a40eb,Sự trỗi dậy của eSports: Vận động viên thể thao điện tử có phải là vận động viên thực thụ?,67f357e280e7a31c46a4e333,204,3,98
+68538bd0032f97a5e817566c,68011e392ab2615d4649dc94,Thiên kiến nhận thức (Cognitive Bias): Những cạm bẫy vô hình trong tư duy,67f3584980e7a31c46a4e334,71,1,76
+68538bd0032f97a5e817566d,68538097032f97a5e817547e,Tâm lý học về sự trì hoãn và 5 phương pháp để vượt qua,67f3584980e7a31c46a4e334,95,14,606
+68538bd0032f97a5e817566e,6853842e032f97a5e81754be,Sức mạnh của 'Grit' - Sự kiên trì và đam mê dài hạn,67f3584980e7a31c46a4e334,99,9,74
+68538bd0032f97a5e817566f,6853842e032f97a5e81754bf,Tác động của mạng xã hội đến sức khỏe tâm thần của giới trẻ,67f3584980e7a31c46a4e334,15,5,38
+68538bd0032f97a5e8175670,6853842e032f97a5e81754c0,Trí tuệ cảm xúc (EQ): Tại sao nó quan trọng hơn IQ trong sự nghiệp?,67f3584980e7a31c46a4e334,43,5,268
+68538bd0032f97a5e8175671,67e20a0f94883c2093d09d95,Gamification trong lớp học: Biến việc học thành trò chơi hấp dẫn,67f3585d80e7a31c46a4e335,181,5,688
+68538bd0032f97a5e8175672,67ed629313d86e27fec2318f,Lớp học đảo ngược (Flipped Classroom): Tối ưu hóa thời gian tương tác,67f3585d80e7a31c46a4e335,39,6,198
+68538bd0032f97a5e8175673,67f2b39e8be76b7890c824cd,Tầm quan trọng của giáo dục STEM đối với nền kinh tế tri thức,67f3585d80e7a31c46a4e335,137,3,430
+68538bd0032f97a5e8175674,67f2b4a88be76b7890c824ce,Học tập suốt đời (Lifelong Learning): Kỹ năng sinh tồn trong thời đại số,67f3585d80e7a31c46a4e335,12,10,404
+68538bd0032f97a5e8175675,6800d3bbe8bde56abb2a40eb,Cá nhân hóa lộ trình học tập với sự hỗ trợ của AI,67f3585d80e7a31c46a4e335,7,3,250
+68538bd0032f97a5e8175676,68011e392ab2615d4649dc94,Thu nhập cơ bản phổ quát (UBI): Giải pháp cho tương lai hay một giấc mơ không tưởng?,67f3587d80e7a31c46a4e336,133,9,150
+68538bd0032f97a5e8175677,68538097032f97a5e817547e,Quyền được lãng quên trên Internet có thực sự khả thi?,67f3587d80e7a31c46a4e336,203,14,673
+68538bd0032f97a5e8175678,6853842e032f97a5e81754be,Kiểm duyệt nội dung trên mạng xã hội: Giới hạn nào cho tự do ngôn luận?,67f3587d80e7a31c46a4e336,19,14,686
+68538bd0032f97a5e8175679,6853842e032f97a5e81754bf,Nên hay không việc áp thuế carbon để chống biến đổi khí hậu?,67f3587d80e7a31c46a4e336,123,0,341
+68538bd0032f97a5e817567a,6853842e032f97a5e81754c0,Làm việc từ xa hoàn toàn: Xu hướng bền vững hay chỉ là giải pháp tạm thời?,67f3587d80e7a31c46a4e336,190,7,716
+68538bd0032f97a5e817567b,67e20a0f94883c2093d09d95,Công nghệ chỉnh sửa gen CRISPR-Cas9: Tiềm năng và những lo ngại về đạo đức,67f3589080e7a31c46a4e337,168,0,570
+68538bd0032f97a5e817567c,67ed629313d86e27fec2318f,Điện toán lượng tử sẽ thay đổi thế giới như thế nào?,67f3589080e7a31c46a4e337,128,8,631
+68538bd0032f97a5e817567d,67f2b39e8be76b7890c824cd,Giao diện não-máy tính (BCI): Bước tiếp theo trong sự tiến hóa của con người?,67f3589080e7a31c46a4e337,207,10,478
+68538bd0032f97a5e817567e,67f2b4a88be76b7890c824ce,Blockchain ngoài tiền điện tử: Các ứng dụng trong chuỗi cung ứng và y tế,67f3589080e7a31c46a4e337,162,13,239
+68538bd0032f97a5e817567f,6800d3bbe8bde56abb2a40eb,Nông nghiệp thẳng đứng (Vertical Farming): Giải pháp lương thực cho các siêu đô thị,67f3589080e7a31c46a4e337,31,2,459
+68538bd0032f97a5e8175680,68011e392ab2615d4649dc94,Cuộc cách mạng công nghiệp lần thứ nhất đã thay đổi xã hội loài người ra sao?,67f358a780e7a31c46a4e338,104,5,583
+68538bd0032f97a5e8175681,68538097032f97a5e817547e,Sự sụp đổ của Đế chế La Mã: Bài học về sự phức tạp và suy tàn,67f358a780e7a31c46a4e338,110,3,53
+68538bd0032f97a5e8175682,6853842e032f97a5e81754be,Thời kỳ Khai sáng và sự ra đời của tư duy khoa học và nhân quyền,67f358a780e7a31c46a4e338,131,8,625
+68538bd0032f97a5e8175683,6853842e032f97a5e81754bf,Cái chết Đen: Đại dịch đã định hình lại châu Âu như thế nào?,67f358a780e7a31c46a4e338,19,2,39
+68538bd0032f97a5e8175684,6853842e032f97a5e81754c0,Chiến tranh Lạnh: Cuộc đối đầu ý thức hệ định hình nửa sau thế kỷ 20,67f358a780e7a31c46a4e338,38,9,750
+68538cfb032f97a5e817569b,67e20a0f94883c2093d09d95,Sự ảnh hưởng của nghệ thuật Phục Hưng đến văn hóa phương Tây,67f3591980e7a31c46a4e339,72,15,1195
+68538cfb032f97a5e817569c,67ed629313d86e27fec2318f,Phân tích ngôn ngữ điện ảnh trong phim 'Parasite' của Bong Joon-ho,67f3591980e7a31c46a4e339,269,12,796
+68538cfb032f97a5e817569d,67f2b39e8be76b7890c824cd,Sự phát triển của nhạc Jazz: Từ New Orleans đến toàn thế giới,67f3591980e7a31c46a4e339,94,1,273
+68538cfb032f97a5e817569e,67f2b4a88be76b7890c824ce,Nghệ thuật trình diễn (Performance Art): Khi cơ thể trở thành tác phẩm,67f3591980e7a31c46a4e339,2,18,672
+68538cfb032f97a5e817569f,6800d3bbe8bde56abb2a40eb,Làn sóng Hallyu và sức mạnh mềm của văn hóa Hàn Quốc,67f3591980e7a31c46a4e339,267,14,913
+68538cfb032f97a5e81756a0,68011e392ab2615d4649dc94,Chủ nghĩa siêu thực trong hội họa: Khám phá thế giới của tiềm thức,67f3591980e7a31c46a4e339,224,22,884
+68538cfb032f97a5e81756a1,68538097032f97a5e817547e,Sự phát triển của ngành công nghiệp game: Từ pixel đơn giản đến thế giới ảo phức tạp,67f3591980e7a31c46a4e339,182,4,1065
+68538cfb032f97a5e81756a2,6853842e032f97a5e81754be,Podcast: Sự hồi sinh của âm thanh trong kỷ nguyên số,67f3591980e7a31c46a4e339,70,5,229
+68538cfb032f97a5e81756a3,6853842e032f97a5e81754bf,Chủ nghĩa hiện sinh trong tiểu thuyết của Albert Camus,67f3593780e7a31c46a4e33a,31,23,917
+68538cfb032f97a5e81756a4,6853842e032f97a5e81754c0,Sức hấp dẫn của thể loại trinh thám cổ điển: Bài học từ Sherlock Holmes,67f3593780e7a31c46a4e33a,225,10,1084
+68538cfb032f97a5e81756a5,67e20a0f94883c2093d09d95,Văn học kỳ ảo hiện đại: Xây dựng thế giới trong 'Chúa tể những chiếc nhẫn',67f3593780e7a31c46a4e33a,3,13,541
+68538cfb032f97a5e81756a6,67ed629313d86e27fec2318f,Sách self-help: Giữa cảm hứng và những lời khuyên sáo rỗng,67f3593780e7a31c46a4e33a,250,18,522
+68538cfb032f97a5e81756a7,67f2b39e8be76b7890c824cd,Tác động của sách điện tử và máy đọc sách đến văn hóa đọc,67f3593780e7a31c46a4e33a,200,24,1031
+68538cfb032f97a5e81756a8,67f2b4a88be76b7890c824ce,Giá trị của văn học thiếu nhi trong việc hình thành nhân cách,67f3593780e7a31c46a4e33a,97,0,914
+68538cfb032f97a5e81756a9,6800d3bbe8bde56abb2a40eb,Haruki Murakami và thế giới của những điều siêu thực trong đời thường,67f3593780e7a31c46a4e33a,69,10,185
+68538cfb032f97a5e81756aa,68011e392ab2615d4649dc94,Năm ngôn ngữ tình yêu: Tại sao chúng ta thể hiện và cảm nhận tình yêu khác nhau?,67f3594480e7a31c46a4e33b,193,20,1196
+68538cfb032f97a5e81756ab,68538097032f97a5e817547e,Sự khác biệt giữa tình yêu đam mê và tình yêu đồng hành,67f3594480e7a31c46a4e33b,60,7,127
+68538cfb032f97a5e81756ac,6853842e032f97a5e81754be,Hóa học của tình yêu: Vai trò của oxytocin và dopamine,67f3594480e7a31c46a4e33b,70,19,1183
+68538cfb032f97a5e81756ad,6853842e032f97a5e81754bf,Yêu xa: Thử thách và những bí quyết để duy trì mối quan hệ,67f3594480e7a31c46a4e33b,273,13,144
+68538cfb032f97a5e81756ae,6853842e032f97a5e81754c0,Vượt qua nỗi đau sau chia tay: Các giai đoạn của sự chữa lành,67f3594480e7a31c46a4e33b,289,11,837
+68538cfb032f97a5e81756af,67e20a0f94883c2093d09d95,Red flags (cờ đỏ) trong một mối quan hệ mà bạn không nên bỏ qua,67f3594480e7a31c46a4e33b,139,3,484
+68538cfb032f97a5e81756b0,67ed629313d86e27fec2318f,Tình bạn có thể phát triển thành tình yêu được không?,67f3594480e7a31c46a4e33b,142,7,354
+68538cfb032f97a5e81756b1,67f2b39e8be76b7890c824cd,Chủ nghĩa tiêu dùng và tác động của nó đến môi trường,67f3596980e7a31c46a4e33c,214,16,134
+68538cfb032f97a5e81756b2,67f2b4a88be76b7890c824ce,Sự phân hóa giàu nghèo ngày càng gia tăng và các hệ lụy xã hội,67f3596980e7a31c46a4e33c,75,13,378
+68538cfb032f97a5e81756b3,6800d3bbe8bde56abb2a40eb,Thế hệ Z và những thay đổi trong quan niệm về công việc và cuộc sống,67f3596980e7a31c46a4e33c,199,7,626
+68538cfb032f97a5e81756b4,68011e392ab2615d4649dc94,Bong bóng bộ lọc (Filter Bubble): Khi thuật toán quyết định những gì chúng ta thấy,67f3596980e7a31c46a4e33c,137,13,154
+68538cfb032f97a5e81756b5,68538097032f97a5e817547e,Đô thị hóa nhanh chóng và thách thức về nhà ở và cơ sở hạ tầng,67f3596980e7a31c46a4e33c,296,18,876
+68538cfb032f97a5e81756b6,6853842e032f97a5e81754be,Văn hóa 'hối hả' (Hustle Culture) và nguy cơ kiệt sức,67f3596980e7a31c46a4e33c,104,8,647
+68538cfb032f97a5e81756b7,6853842e032f97a5e81754bf,Tin giả (Fake News) và sự xói mòn lòng tin vào truyền thông,67f3596980e7a31c46a4e33c,232,15,928
+68538cfb032f97a5e81756b8,6853842e032f97a5e81754c0,Chủ nghĩa tối giản (Minimalism) như một lối sống phản kháng tiêu dùng,67f3596980e7a31c46a4e33c,271,24,712
+68538d70032f97a5e81756bf,67e20a0f94883c2093d09d95,Doping trong thể thao: Cuộc chiến không hồi kết giữa công nghệ và sự trung thực,67f357e280e7a31c46a4e333,234,13,738
+68538d70032f97a5e81756c0,67ed629313d86e27fec2318f,Tâm lý học thể thao: Sức mạnh của việc hình dung thành công,67f357e280e7a31c46a4e333,79,11,1172
+68538d70032f97a5e81756c1,67f2b39e8be76b7890c824cd,Sự thống trị của các vận động viên Kenya và Ethiopia trong các cự ly chạy dài,67f357e280e7a31c46a4e333,11,12,1117
+68538d70032f97a5e81756c2,67f2b4a88be76b7890c824ce,Hiệu ứng Dunning-Kruger: Tại sao người kém năng lực lại thường tự tin thái quá?,67f3584980e7a31c46a4e334,137,5,498
+68538d70032f97a5e81756c3,6800d3bbe8bde56abb2a40eb,Tư duy phát triển (Growth Mindset) và tầm quan trọng của nó trong học tập,67f3584980e7a31c46a4e334,280,13,314
+68538d70032f97a5e81756c4,68011e392ab2615d4649dc94,Liệu pháp Chấp nhận và Cam kết (ACT): Học cách sống cùng những cảm xúc khó khăn,67f3584980e7a31c46a4e334,158,2,1028
+68538d70032f97a5e81756c5,68538097032f97a5e817547e,Vai trò của trí tò mò trong việc thúc đẩy học tập tự chủ,67f3585d80e7a31c46a4e335,297,19,365
+68538d70032f97a5e81756c6,6853842e032f97a5e81754be,Học tập dựa trên năng lực (Competency-Based Education): Đánh giá những gì học sinh có thể làm,67f3585d80e7a31c46a4e335,38,15,381
+68538d70032f97a5e81756c7,6853842e032f97a5e81754bf,Giáo dục tài chính cá nhân có nên là môn học bắt buộc ở trường phổ thông?,67f3585d80e7a31c46a4e335,323,9,1427
+68538d70032f97a5e81756c8,6853842e032f97a5e81754c0,Tuần làm việc 4 ngày: Tăng năng suất hay chỉ là một trào lưu?,67f3587d80e7a31c46a4e336,18,1,704
+68538d70032f97a5e81756c9,67e20a0f94883c2093d09d95,Sở hữu nhà: Giấc mơ của thế hệ trước có còn phù hợp với thế hệ trẻ?,67f3587d80e7a31c46a4e336,368,15,1427
+68538d70032f97a5e81756ca,67ed629313d86e27fec2318f,Du lịch bền vững: Làm thế nào để khám phá thế giới một cách có trách nhiệm?,67f3587d80e7a31c46a4e336,198,10,5
+68538d70032f97a5e81756cb,67f2b39e8be76b7890c824cd,Sự nguy hiểm của rác thải không gian và các giải pháp tiềm năng,67f3589080e7a31c46a4e337,321,4,1211
+68538d70032f97a5e81756cc,67f2b4a88be76b7890c824ce,Deepfake và tương lai của sự thật trong kỷ nguyên số,67f3589080e7a31c46a4e337,123,7,438
+68538d70032f97a5e81756cd,6800d3bbe8bde56abb2a40eb,In 3D nội tạng: Bước đột phá trong y học tái tạo,67f3589080e7a31c46a4e337,398,18,742
+68538d70032f97a5e81756ce,68011e392ab2615d4649dc94,Thư viện Alexandria: Biểu tượng của tri thức cổ đại đã biến mất như thế nào?,67f358a780e7a31c46a4e338,196,9,819
+68538d70032f97a5e81756cf,68538097032f97a5e817547e,Cuộc cách mạng Haiti: Cuộc nổi dậy của nô lệ duy nhất thành công trong lịch sử,67f358a780e7a31c46a4e338,111,9,126
+68538d70032f97a5e81756d0,6853842e032f97a5e81754be,Sự phát minh ra máy in của Gutenberg và cuộc cách mạng thông tin lần thứ nhất,67f358a780e7a31c46a4e338,233,7,829
+68538d70032f97a5e81756d1,6853842e032f97a5e81754bf,Nghệ thuật đường phố của Banksy: Giữa phá hoại và thông điệp chính trị sâu sắc,67f3591980e7a31c46a4e339,239,0,946
+68538d70032f97a5e81756d2,6853842e032f97a5e81754c0,Sự trở lại của đĩa than (Vinyl): Hoài niệm hay chất lượng âm thanh vượt trội?,67f3591980e7a31c46a4e339,346,19,1287
+68538d70032f97a5e81756d3,67e20a0f94883c2093d09d95,Stand-up comedy như một hình thức bình luận xã hội sắc bén,67f3591980e7a31c46a4e339,190,8,800
+68538d70032f97a5e81756d4,67ed629313d86e27fec2318f,Thế giới phản địa đàng trong tiểu thuyết '1984' của George Orwell,67f3593780e7a31c46a4e33a,25,8,452
+68538d70032f97a5e81756d5,67f2b39e8be76b7890c824cd,Tại sao 'Giết con chim nhại' vẫn là một tác phẩm kinh điển của văn học Mỹ?,67f3593780e7a31c46a4e33a,62,4,799
+68538d70032f97a5e81756d6,67f2b4a88be76b7890c824ce,Sự nổi lên của tiểu thuyết đồ họa (Graphic Novel) như một loại hình văn học nghiêm túc,67f3593780e7a31c46a4e33a,230,14,1444
+68538d70032f97a5e81756d7,6800d3bbe8bde56abb2a40eb,"Lý thuyết tam giác tình yêu của Sternberg: Sự kết hợp của thân mật, đam mê và cam kết",67f3594480e7a31c46a4e33b,296,2,1318
+68538d70032f97a5e81756d8,68011e392ab2615d4649dc94,Sự giao tiếp hiệu quả: Nền tảng của một mối quan hệ bền vững,67f3594480e7a31c46a4e33b,260,10,244
+68538d70032f97a5e81756d9,68538097032f97a5e817547e,Tình yêu bản thân có phải là điều kiện tiên quyết cho một tình yêu lành mạnh?,67f3594480e7a31c46a4e33b,23,5,816
+68538d70032f97a5e81756da,6853842e032f97a5e81754be,Sự gentrification (sang trọng hóa): Cuộc cải tạo đô thị và cái giá phải trả,67f3596980e7a31c46a4e33c,115,18,696
+68538d70032f97a5e81756db,6853842e032f97a5e81754bf,Quyền riêng tư trong thời đại dữ liệu lớn: 'Sản phẩm' chính là bạn,67f3596980e7a31c46a4e33c,265,9,603
+68538d70032f97a5e81756dc,6853842e032f97a5e81754c0,Sự dịch chuyển sang nền kinh tế Gig (Gig Economy) và tương lai của việc làm,67f3596980e7a31c46a4e33c,105,10,955
+68538dd0032f97a5e81756e2,67e20a0f94883c2093d09d95,Khoa học dinh dưỡng thể thao: Ăn gì để tối ưu hóa hiệu suất?,67f357e280e7a31c46a4e333,391,9,669
+68538dd0032f97a5e81756e3,67ed629313d86e27fec2318f,Sự phát triển của thể thao nữ và cuộc chiến cho sự bình đẳng,67f357e280e7a31c46a4e333,239,0,917
+68538dd0032f97a5e81756e4,67f2b39e8be76b7890c824cd,Tác động của công nghệ VAR đến cảm xúc trong bóng đá,67f357e280e7a31c46a4e333,390,12,1150
+68538dd0032f97a5e81756e5,67f2b4a88be76b7890c824ce,Dòng chảy (Flow State): Trạng thái tâm lý của hiệu suất đỉnh cao,67f3584980e7a31c46a4e334,355,8,1802
+68538dd0032f97a5e81756e6,6800d3bbe8bde56abb2a40eb,Sức mạnh của lòng biết ơn đối với sức khỏe tinh thần,67f3584980e7a31c46a4e334,373,10,729
+68538dd0032f97a5e81756e7,68011e392ab2615d4649dc94,Nghịch lý của sự lựa chọn: Tại sao có quá nhiều lựa chọn lại khiến chúng ta không hạnh phúc?,67f3584980e7a31c46a4e334,360,22,222
+68538dd0032f97a5e81756e8,68538097032f97a5e817547e,Học tập truy vấn (Inquiry-Based Learning): Để học sinh tự đặt câu hỏi,67f3585d80e7a31c46a4e335,249,28,194
+68538dd0032f97a5e81756e9,6853842e032f97a5e81754be,Tầm quan trọng của giáo dục nghệ thuật trong việc phát triển sự sáng tạo,67f3585d80e7a31c46a4e335,4,20,307
+68538dd0032f97a5e81756ea,6853842e032f97a5e81754bf,Đánh giá hình thành (Formative Assessment) so với Đánh giá tổng kết (Summative Assessment),67f3585d80e7a31c46a4e335,29,17,1527
+68538dd0032f97a5e81756eb,6853842e032f97a5e81754c0,Thịt nhân tạo trong phòng thí nghiệm: Tương lai của thực phẩm hay một ý tưởng đáng sợ?,67f3587d80e7a31c46a4e336,411,6,270
+68538dd0032f97a5e81756ec,67e20a0f94883c2093d09d95,Fast Fashion (Thời trang nhanh) và cái giá của những bộ quần áo giá rẻ,67f3587d80e7a31c46a4e336,483,12,1194
+68538dd0032f97a5e81756ed,67ed629313d86e27fec2318f,Có nên cấm sử dụng điện thoại di động trong trường học?,67f3587d80e7a31c46a4e336,71,29,1621
+68538dd0032f97a5e81756ee,67f2b39e8be76b7890c824cd,Sự bí ẩn của vật chất tối và năng lượng tối,67f3589080e7a31c46a4e337,487,28,1050
+68538dd0032f97a5e81756ef,67f2b4a88be76b7890c824ce,Mạng 5G và tiềm năng của Internet vạn vật (IoT),67f3589080e7a31c46a4e337,32,13,1197
+68538dd0032f97a5e81756f0,6800d3bbe8bde56abb2a40eb,Sinh học tổng hợp: 'Lập trình' lại sự sống để giải quyết các vấn đề của thế giới,67f3589080e7a31c46a4e337,91,5,695
+68538dd0032f97a5e81756f1,68011e392ab2615d4649dc94,Cuộc khủng hoảng tên lửa Cuba: Thế giới đã đến gần bờ vực chiến tranh hạt nhân như thế nào?,67f358a780e7a31c46a4e338,374,13,1224
+68538dd0032f97a5e81756f2,68538097032f97a5e817547e,Vạn Lý Trường Thành: Không chỉ là một công trình phòng thủ,67f358a780e7a31c46a4e338,470,26,1291
+68538dd0032f97a5e81756f3,6853842e032f97a5e81754be,Vụ bê bối Watergate và sự sụp đổ của một vị tổng thống,67f358a780e7a31c46a4e338,300,1,1824
+68538dd0032f97a5e81756f4,6853842e032f97a5e81754bf,Sự ra đời và ảnh hưởng của điện ảnh Hollywood,67f3591980e7a31c46a4e339,407,12,126
+68538dd0032f97a5e81756f5,6853842e032f97a5e81754c0,"Nhạc kịch Broadway: Sự kết hợp đỉnh cao của diễn xuất, âm nhạc và vũ đạo",67f3591980e7a31c46a4e339,169,18,661
+68538dd0032f97a5e81756f6,67e20a0f94883c2093d09d95,Chủ nghĩa tối giản trong âm nhạc: Sức mạnh của sự lặp lại,67f3591980e7a31c46a4e339,483,5,864
+68538dd0032f97a5e81756f7,67ed629313d86e27fec2318f,Trăm năm cô đơn và chủ nghĩa hiện thực huyền ảo trong văn học Mỹ Latinh,67f3593780e7a31c46a4e33a,64,0,1844
+68538dd0032f97a5e81756f8,67f2b39e8be76b7890c824cd,Cuộc cách mạng của sách bìa mềm và việc dân chủ hóa tri thức,67f3593780e7a31c46a4e33a,112,20,366
+68538dd0032f97a5e81756f9,67f2b4a88be76b7890c824ce,Thế nào là một 'tác phẩm kinh điển' và tại sao chúng ta vẫn đọc chúng?,67f3593780e7a31c46a4e33a,496,0,1138
+68538dd0032f97a5e81756fa,6800d3bbe8bde56abb2a40eb,Gaslighting: Nhận diện một hình thức thao túng tinh vi trong tình yêu,67f3594480e7a31c46a4e33b,338,7,1701
+68538dd0032f97a5e81756fb,68011e392ab2615d4649dc94,Ranh giới cá nhân (Personal Boundaries) trong một mối quan hệ lành mạnh,67f3594480e7a31c46a4e33b,100,8,386
+68538dd0032f97a5e81756fc,68538097032f97a5e817547e,Vai trò của sự tha thứ trong việc hàn gắn các mối quan hệ,67f3594480e7a31c46a4e33b,464,16,1200
+68538dd0032f97a5e81756fd,6853842e032f97a5e81754be,Sự trỗi dậy của 'kinh tế chú ý' và tác động đến sự tập trung của chúng ta,67f3596980e7a31c46a4e33c,248,12,610
+68538dd0032f97a5e81756fe,6853842e032f97a5e81754bf,Vấn đề già hóa dân số ở các nước phát triển,67f3596980e7a31c46a4e33c,411,14,160
+68538dd0032f97a5e81756ff,6853842e032f97a5e81754c0,Lối sống 'Zero Waste' (Không rác thải): Thách thức và lợi ích,67f3596980e7a31c46a4e33c,300,1,72
+68538e2a032f97a5e8175705,67e20a0f94883c2093d09d95,Sự tiến hóa của vị trí 'Số 9 ảo' trong bóng đá,67f357e280e7a31c46a4e333,501,12,495
+68538e2a032f97a5e8175706,67ed629313d86e27fec2318f,Thể thao mạo hiểm: Cuộc tìm kiếm cảm giác mạnh và giới hạn bản thân,67f357e280e7a31c46a4e333,333,29,1765
+68538e2a032f97a5e8175707,67f2b39e8be76b7890c824cd,Draft trong các giải đấu thể thao Mỹ: Cơ chế cân bằng sức mạnh độc đáo,67f357e280e7a31c46a4e333,117,30,2378
+68538e2a032f97a5e8175708,67f2b4a88be76b7890c824ce,Liệu pháp nhận thức - hành vi (CBT): Thay đổi suy nghĩ để thay đổi cuộc sống,67f3584980e7a31c46a4e334,588,2,2264
+68538e2a032f97a5e8175709,6800d3bbe8bde56abb2a40eb,Tâm lý học đám đông và hành vi phi lý trí,67f3584980e7a31c46a4e334,377,0,133
+68538e2a032f97a5e817570a,68011e392ab2615d4649dc94,Ký ức giả (False Memory): Tại sao chúng ta có thể nhớ những điều chưa bao giờ xảy ra?,67f3584980e7a31c46a4e334,270,26,39
+68538e2a032f97a5e817570b,68538097032f97a5e817547e,Phương pháp Montessori và sự tôn trọng tính độc lập của trẻ,67f3585d80e7a31c46a4e335,83,18,1170
+68538e2a032f97a5e817570c,6853842e032f97a5e81754be,Tác động của các kỳ thi chuẩn hóa đến sự sáng tạo và sức khỏe tinh thần,67f3585d80e7a31c46a4e335,521,8,183
+68538e2a032f97a5e817570d,6853842e032f97a5e81754bf,Vai trò của phụ huynh trong việc hỗ trợ giáo dục tại nhà,67f3585d80e7a31c46a4e335,491,18,2342
+68538e2a032f97a5e817570e,6853842e032f97a5e81754c0,Du hành vũ trụ thương mại: Cuộc chơi của giới siêu giàu hay bước tiến của nhân loại?,67f3587d80e7a31c46a4e336,505,18,2358
+68538e2a032f97a5e817570f,67e20a0f94883c2093d09d95,Nên hay không việc sử dụng công nghệ nhận dạng khuôn mặt ở nơi công cộng?,67f3587d80e7a31c46a4e336,410,16,1007
+68538e2a032f97a5e8175710,67ed629313d86e27fec2318f,Ăn chay có phải là giải pháp đạo đức và bền vững nhất?,67f3587d80e7a31c46a4e336,248,15,966
+68538e2a032f97a5e8175711,67f2b39e8be76b7890c824cd,Kính viễn vọng Không gian James Webb và những khám phá về vũ trụ sơ khai,67f3589080e7a31c46a4e337,582,26,795
+68538e2a032f97a5e8175712,67f2b4a88be76b7890c824ce,Vật liệu siêu dẫn ở nhiệt độ phòng: Chén Thánh của vật lý học,67f3589080e7a31c46a4e337,196,15,2052
+68538e2a032f97a5e8175713,6800d3bbe8bde56abb2a40eb,Hệ vi sinh vật đường ruột: 'Bộ não thứ hai' của cơ thể,67f3589080e7a31c46a4e337,426,3,1579
+68538e2a032f97a5e8175714,68011e392ab2615d4649dc94,Cuộc đổ bộ Normandy (D-Day): Bước ngoặt của Thế chiến thứ hai ở châu Âu,67f358a780e7a31c46a4e338,421,33,929
+68538e2a032f97a5e8175715,68538097032f97a5e817547e,Phong trào dân quyền ở Mỹ và di sản của Martin Luther King Jr.,67f358a780e7a31c46a4e338,402,19,307
+68538e2a032f97a5e8175716,6853842e032f97a5e81754be,Sự sụp đổ của Bức tường Berlin và sự kết thúc của Chiến tranh Lạnh,67f358a780e7a31c46a4e338,159,26,2432
+68538e2a032f97a5e8175717,6853842e032f97a5e81754bf,Sự ra đời của Hip Hop: Từ các bữa tiệc ở The Bronx đến một hiện tượng văn hóa toàn cầu,67f3591980e7a31c46a4e339,564,15,466
+68538e2a032f97a5e8175718,6853842e032f97a5e81754c0,Truyền hình thực tế: Sự phản ánh hay bóp méo thực tại?,67f3591980e7a31c46a4e339,247,12,1647
+68538e2a032f97a5e8175719,67e20a0f94883c2093d09d95,Vẻ đẹp của kiến trúc Brutalism: Thô mộc và gây tranh cãi,67f3591980e7a31c46a4e339,297,33,1124
+68538e2a032f97a5e817571a,67ed629313d86e27fec2318f,Dòng ý thức (Stream of Consciousness) trong văn học hiện đại,67f3593780e7a31c46a4e33a,359,9,901
+68538e2a032f97a5e817571b,67f2b39e8be76b7890c824cd,Câu lạc bộ sách: Sức mạnh của việc đọc và thảo luận cùng nhau,67f3593780e7a31c46a4e33a,382,27,1216
+68538e2a032f97a5e817571c,67f2b4a88be76b7890c824ce,Thơ Haiku của Nhật Bản: Nghệ thuật gói gọn cả thế giới trong 17 âm tiết,67f3593780e7a31c46a4e33a,553,11,1344
+68538e2a032f97a5e817571d,6800d3bbe8bde56abb2a40eb,Anxious-Avoidant Trap: Vòng lặp phổ biến trong các mối quan hệ,67f3594480e7a31c46a4e33b,440,13,1757
+68538e2a032f97a5e817571e,68011e392ab2615d4649dc94,Sự khác biệt giữa tình yêu và sự phụ thuộc tình cảm,67f3594480e7a31c46a4e33b,300,25,34
+68538e2a032f97a5e817571f,68538097032f97a5e817547e,Tác động của các ứng dụng hẹn hò đến cách chúng ta tìm kiếm tình yêu,67f3594480e7a31c46a4e33b,242,27,1178
+68538e2a032f97a5e8175720,6853842e032f97a5e81754be,Chủ nghĩa cá nhân so với chủ nghĩa tập thể: Sự khác biệt văn hóa Đông - Tây,67f3596980e7a31c46a4e33c,159,10,964
+68538e2a032f97a5e8175721,6853842e032f97a5e81754bf,Sự lan truyền đạo đức (Moral Outrage) trên mạng xã hội,67f3596980e7a31c46a4e33c,70,26,461
+68538e2a032f97a5e8175722,6853842e032f97a5e81754c0,Hiện tượng FOMO (Fear of Missing Out) và sự bất mãn trong thời đại số,67f3596980e7a31c46a4e33c,526,12,618
+68538ee3032f97a5e8175731,67e20a0f94883c2093d09d95,Phân tích kinh tế của các kỳ World Cup: Lợi ích và gánh nặng cho nước chủ nhà,67f357e280e7a31c46a4e333,126,34,1616
+68538ee3032f97a5e8175732,67ed629313d86e27fec2318f,Cờ vua có phải là một môn thể thao? Cuộc tranh luận về định nghĩa,67f357e280e7a31c46a4e333,647,17,5
+68538ee3032f97a5e8175733,67f2b39e8be76b7890c824cd,Chấn thương và sự phục hồi: Cuộc chiến thầm lặng của vận động viên,67f357e280e7a31c46a4e333,592,22,514
+68538ee3032f97a5e8175734,67f2b4a88be76b7890c824ce,Hiệu ứng Pygmalion: Khi kỳ vọng định hình nên thực tế,67f3584980e7a31c46a4e334,546,9,1383
+68538ee3032f97a5e8175735,6800d3bbe8bde56abb2a40eb,Bản chất của giấc mơ: Giải mã những thông điệp từ tiềm thức,67f3584980e7a31c46a4e334,121,6,1381
+68538ee3032f97a5e8175736,68011e392ab2615d4649dc94,Tâm lý học về thuyết phục: 6 nguyên tắc của Robert Cialdini,67f3584980e7a31c46a4e334,401,1,1794
+68538ee3032f97a5e8175737,68538097032f97a5e817547e,Học tập xã hội-cảm xúc (Social-Emotional Learning - SEL): Dạy học sinh về sự đồng cảm và tự nhận thức,67f3585d80e7a31c46a4e335,558,1,2402
+68538ee3032f97a5e8175738,6853842e032f97a5e81754be,Khoảng cách kỹ thuật số (Digital Divide) trong giáo dục,67f3585d80e7a31c46a4e335,435,11,2077
+68538ee3032f97a5e8175739,6853842e032f97a5e81754bf,Sức mạnh của việc kể chuyện (Storytelling) trong giảng dạy,67f3585d80e7a31c46a4e335,167,10,2825
+68538ee3032f97a5e817573a,6853842e032f97a5e81754c0,Có nên đánh thuế tài sản của giới siêu giàu?,67f3587d80e7a31c46a4e336,517,17,2570
+68538ee3032f97a5e817573b,67e20a0f94883c2093d09d95,Thử nghiệm trên động vật: Sự cần thiết về mặt khoa học hay một hành vi phi đạo đức?,67f3587d80e7a31c46a4e336,452,13,1462
+68538ee3032f97a5e817573c,67ed629313d86e27fec2318f,Văn hóa hủy bỏ (Cancel Culture): Công cụ đòi công lý hay một hình thức trừng phạt của đám đông?,67f3587d80e7a31c46a4e336,38,31,2810
+68538ee3032f97a5e817573d,67f2b39e8be76b7890c824cd,Tìm kiếm sự sống ngoài Trái Đất: Nghịch lý Fermi và những giả thuyết,67f3589080e7a31c46a4e337,170,10,2178
+68538ee3032f97a5e817573e,67f2b4a88be76b7890c824ce,Thực tế tăng cường (AR) và sự hòa trộn giữa thế giới thực và ảo,67f3589080e7a31c46a4e337,90,35,2928
+68538ee3032f97a5e817573f,6800d3bbe8bde56abb2a40eb,Máy gia tốc hạt lớn (LHC) và cuộc săn tìm các hạt cơ bản của vũ trụ,67f3589080e7a31c46a4e337,285,19,2980
+68538ee3032f97a5e8175740,68011e392ab2615d4649dc94,Cuộc Đại suy thoái (1929) và những bài học kinh tế còn nguyên giá trị,67f358a780e7a31c46a4e338,423,4,967
+68538ee3032f97a5e8175741,68538097032f97a5e817547e,Lịch sử của thuốc kháng sinh: Từ phát hiện tình cờ của Fleming đến cuộc khủng hoảng kháng thuốc,67f358a780e7a31c46a4e338,374,5,1039
+68538ee3032f97a5e8175742,6853842e032f97a5e81754be,Sự trỗi dậy và sụp đổ của Đế chế Mông Cổ,67f358a780e7a31c46a4e338,342,27,584
+68538ee3032f97a5e8175743,6853842e032f97a5e81754bf,Chủ nghĩa Ấn tượng: Cuộc cách mạng về ánh sáng và màu sắc,67f3591980e7a31c46a4e339,674,18,1403
+68538ee3032f97a5e8175744,6853842e032f97a5e81754c0,Thuyết Tác giả (Auteur Theory) trong điện ảnh: Đạo diễn là tác giả của bộ phim,67f3591980e7a31c46a4e339,215,37,2051
+68538ee3032f97a5e8175745,67e20a0f94883c2093d09d95,Sự phát triển của hiệu ứng hình ảnh (VFX) và tác động của nó đến cách kể chuyện,67f3591980e7a31c46a4e339,479,17,2303
+68538ee3032f97a5e8175746,67ed629313d86e27fec2318f,Chủ nghĩa lãng mạn trong thơ của William Wordsworth,67f3593780e7a31c46a4e33a,88,11,1535
+68538ee3032f97a5e8175747,67f2b39e8be76b7890c824cd,Tác động của giải thưởng văn học đến sự nghiệp của một nhà văn,67f3593780e7a31c46a4e33a,43,5,1944
+68538ee3032f97a5e8175748,67f2b4a88be76b7890c824ce,Sự khác biệt giữa việc đọc một cuốn sách và xem bộ phim chuyển thể,67f3593780e7a31c46a4e33a,669,3,2783
+68538ee3032f97a5e8175749,6800d3bbe8bde56abb2a40eb,Sự tổn thương (Vulnerability): Sức mạnh hay điểm yếu trong tình yêu?,67f3594480e7a31c46a4e33b,250,21,1848
+68538ee3032f97a5e817574a,68011e392ab2615d4649dc94,Tại sao chúng ta lại bị thu hút bởi những người 'không tốt' cho mình?,67f3594480e7a31c46a4e33b,238,14,2481
+68538ee3032f97a5e817574b,68538097032f97a5e817547e,Hôn nhân sắp đặt và hôn nhân dựa trên tình yêu: Những ưu và nhược điểm,67f3594480e7a31c46a4e33b,298,33,2432
+68538ee3032f97a5e817574c,6853842e032f97a5e81754be,Tác động của đô thị hóa đến sức khỏe tâm thần,67f3596980e7a31c46a4e33c,646,26,193
+68538ee3032f97a5e817574d,6853842e032f97a5e81754bf,Sự thay đổi cấu trúc gia đình trong xã hội hiện đại,67f3596980e7a31c46a4e33c,708,39,2542
+68538ee3032f97a5e817574e,6853842e032f97a5e81754c0,Sự thật trong thời đại hậu sự thật (Post-truth),67f3596980e7a31c46a4e33c,399,16,687
